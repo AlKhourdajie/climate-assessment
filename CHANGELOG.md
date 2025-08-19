@@ -48,6 +48,7 @@ The changes listed in this file are categorised as follows:
 
 ### Fixed
 
+* ([#81](https://github.com/iiasa/climate-assessment/pull/81)) Release the upper ixmp4 pin
 * ([#74](https://github.com/iiasa/climate-assessment/pull/74)) Fix various issues
 * ([#55](https://github.com/iiasa/climate-assessment/pull/55])) Pinned requirements to
     make install more reproducible for users (and updated GitHub CI/CD accordingly)
